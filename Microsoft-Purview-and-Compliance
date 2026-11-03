@@ -1,0 +1,63 @@
+🔐 Microsoft Purview and Compliance
+
+1. What is Microsoft Purview?
+
+Microsoft Purview is a set of solutions that helps organisations manage, protect and govern their data while meeting compliance requirements.
+
+It supports data protection, information governance and risk management.
+
+2. Data Loss Prevention (DLP)
+
+Data Loss Prevention helps organisations prevent sensitive information from being shared, accessed or transferred in unauthorised ways.
+
+Example
+
+An employee tries to email a document containing customer identity numbers to an external recipient.
+
+A DLP policy can detect the sensitive information and block or restrict the action.
+
+3. Sensitivity Labels
+
+Sensitivity labels help organisations classify and protect information according to how sensitive it is.
+
+Examples:
+
+Public
+
+General
+
+Confidential
+
+Highly Confidential
+
+Example
+
+A company labels its financial reports as Confidential to help protect sensitive business information.
+
+4. eDiscovery
+
+eDiscovery helps organisations identify, collect, review and manage electronic information that may be needed for legal or regulatory investigations.
+
+Example
+
+A company needs to find emails and documents relating to a legal case. eDiscovery can help locate and review the relevant information.
+
+5. Microsoft Purview Compliance Manager
+
+Compliance Manager helps organisations assess and manage their compliance posture.
+
+It provides assessments, recommendations and improvement actions to help organisations meet regulatory and industry requirements.
+
+6. Microsoft Service Trust Portal
+
+The Service Trust Portal provides information about Microsoft's security, privacy and compliance practices.
+
+Organisations can access reports and documentation to help assess Microsoft's cloud services.
+
+7. Key Takeaway
+
+Microsoft Purview helps organisations protect sensitive information, manage data governance and support regulatory compliance.
+
+Author: ITLerato
+
+Learning Area: Microsoft SC-900
