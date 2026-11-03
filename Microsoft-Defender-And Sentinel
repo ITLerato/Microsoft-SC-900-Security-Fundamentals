@@ -1,0 +1,83 @@
+🛡️ Microsoft Defender and Microsoft Sentinel
+
+1. What is Microsoft Defender?
+
+Microsoft Defender is a family of security solutions that helps organisations protect devices, identities, applications, email and cloud environments against cyber threats.
+
+Examples include:
+
+Microsoft Defender for Endpoint
+
+Microsoft Defender for Office 365
+
+Microsoft Defender for Cloud
+
+Microsoft Defender for Identity
+
+Real-world example
+
+An employee receives an email containing a malicious attachment.
+
+Microsoft Defender for Office 365 can help detect and protect against malicious email threats before they compromise the organisation.
+
+2. What is Microsoft Sentinel?
+
+Microsoft Sentinel is Microsoft's cloud-native Security Information and Event Management (SIEM) and Security Orchestration, Automation and Response (SOAR) solution.
+
+It helps security teams:
+
+Collect security data from different sources.
+
+Detect suspicious activities.
+
+Investigate security incidents.
+
+Respond to threats.
+
+Automate certain security tasks.
+
+Real-world example
+
+A company experiences multiple failed login attempts from an unfamiliar location.
+
+Microsoft Sentinel can analyse collected security data, generate alerts and help the security team investigate the activity.
+
+3. Difference Between Microsoft Defender and Sentinel
+
+Microsoft Defender
+
+Microsoft Sentinel
+
+Provides security protection and threat detection across different environments
+
+Collects and analyses security data from multiple sources
+
+Detects and helps respond to specific threats
+
+Helps security teams investigate and coordinate responses
+
+Includes endpoint, identity and email security solutions
+
+Provides SIEM and SOAR capabilities
+
+4. SIEM vs SOAR
+
+SIEM
+
+Security Information and Event Management.
+
+Collects and analyses security logs and events to identify potential threats.
+
+SOAR
+
+Security Orchestration, Automation and Response.
+
+Helps automate security workflows and coordinate incident responses.
+
+5. Key Takeaway
+
+Microsoft Defender provides security protection across different areas, while Microsoft Sentinel helps security teams collect, analyse and respond to security threats using SIEM and SOAR capabilities.
+
+Author: ITLerato
+
+Learning Area: Microsoft SC-900
