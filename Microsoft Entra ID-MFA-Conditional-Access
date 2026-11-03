@@ -1,0 +1,81 @@
+🔐 Microsoft Entra ID, MFA and Conditional Access
+
+1. What is Microsoft Entra ID?
+
+Microsoft Entra ID is Microsoft's cloud-based identity and access management service.
+
+It helps organisations manage users, groups, applications and access to resources.
+
+Example: An employee uses their company account to sign in to Microsoft 365.
+
+2. What is Multi-Factor Authentication (MFA)?
+
+MFA is a security method that requires users to provide two or more verification factors before accessing an account.
+
+Examples include:
+
+Something you know: Password.
+
+Something you have: Mobile phone or security key.
+
+Something you are: Fingerprint or facial recognition.
+
+Example: An employee enters their password and approves a sign-in request using Microsoft Authenticator.
+
+MFA makes it harder for attackers to access accounts using stolen passwords alone.
+
+3. What is Conditional Access?
+
+Conditional Access is a Microsoft Entra capability that controls access to organisational resources based on specific conditions.
+
+It evaluates signals such as:
+
+User identity.
+
+Location.
+
+Device compliance.
+
+Application being accessed.
+
+Sign-in risk.
+
+Example: A company requires MFA when an employee accesses company resources from an unfamiliar location.
+
+4. Differences Between the Three
+
+Technology
+
+Main Purpose
+
+Microsoft Entra ID
+
+Manages identities and access
+
+MFA
+
+Verifies user identity using multiple factors
+
+Conditional Access
+
+Applies access rules based on conditions
+
+5. Real-World Business Scenario
+
+An employee attempts to access company information from an unfamiliar device.
+
+The organisation uses:
+
+Microsoft Entra ID to identify the employee.
+
+MFA to provide additional identity verification.
+
+Conditional Access to evaluate the sign-in conditions and determine whether access should be granted, blocked or require additional controls.
+
+6. Key Takeaway
+
+Microsoft Entra ID manages identities, MFA strengthens authentication and Conditional Access helps organisations enforce access policies.
+
+Author: ITLerato
+
+Learning Area: Microsoft SC-900
