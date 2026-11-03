@@ -107,3 +107,31 @@ Through this learning journey, I aim to develop a strong understanding of Micros
 GitHub: ITLerato
 
 Career Interest: Cybersecurity and Network Security
+
+## 📚 Portfolio Projects and Case Studies
+
+This repository contains my Microsoft SC-900 learning notes and practical cybersecurity case studies.
+
+### Microsoft Security Learning Notes
+
+1. [Zero Trust Security](zero-trust-security.md)
+2. [Entra ID, MFA and Conditional Access](entra-id-mfa-conditional-access.md)
+3. [Microsoft Defender and Sentinel](microsoft-defender-and-sentinel.md)
+4. [Microsoft Purview and Compliance](microsoft-purview-and-compliance.md)
+5. [Entra ID Protection and Governance](entra-id-protection-and-governance.md)
+
+### Practical Cybersecurity Case Studies
+
+6. [Phishing Attack Investigation](phishing-attack-investigation.md)
+
+### Skills Demonstrated
+
+- Identity and Access Management (IAM)
+- Multi-Factor Authentication (MFA)
+- Zero Trust Security
+- Threat Detection and Prevention
+- Data Loss Prevention (DLP)
+- Security Monitoring and Incident Response
+- Cybersecurity Risk Awareness
+
+**Career Goal:** Aspiring Cybersecurity Analyst
