@@ -1,0 +1,79 @@
+🔐 Microsoft Entra ID Protection and Identity Governance
+
+1. What is Microsoft Entra ID?
+
+Microsoft Entra ID is Microsoft's cloud-based identity and access management service.
+
+It helps organisations manage user identities and control access to applications and resources.
+
+2. Microsoft Entra ID Protection
+
+Entra ID Protection helps organisations detect, investigate and respond to identity-based risks.
+
+It can identify suspicious activities such as:
+
+Sign-ins from unfamiliar or suspicious locations.
+
+Leaked user credentials.
+
+Unusual sign-in behaviour.
+
+Potential compromised accounts.
+
+Real-world example
+
+An employee normally signs in from South Africa but suddenly attempts to access the company account from an unusual location.
+
+Entra ID Protection can identify this as a potential risk and help trigger appropriate security actions.
+
+3. Risk-Based Conditional Access
+
+Risk-based Conditional Access uses risk information to help decide whether access should be allowed.
+
+Depending on the organisation's policies, users may be required to:
+
+Complete multi-factor authentication (MFA).
+
+Change their password.
+
+Meet additional access requirements.
+
+Be blocked from accessing resources.
+
+4. Microsoft Entra ID Governance
+
+Entra ID Governance helps organisations manage user access throughout the identity lifecycle.
+
+Important features include:
+
+Entitlement Management
+
+Allows organisations to manage access packages so users can request access to resources they need.
+
+Access Reviews
+
+Allows organisations to regularly review whether users should continue having access to applications and resources.
+
+Privileged Identity Management (PIM)
+
+Helps manage, control and monitor privileged access to important organisational resources.
+
+It supports just-in-time privileged access, reducing unnecessary permanent administrator permissions.
+
+5. Real-world Scenario
+
+A company has an employee who changes departments.
+
+The employee should no longer have access to certain systems from their previous role.
+
+Entra ID Governance can help the organisation review and adjust the employee's permissions to ensure they only retain the access required for their new responsibilities.
+
+6. Key Takeaway
+
+Microsoft Entra ID helps manage identities and access.
+
+Entra ID Protection helps identify identity-related risks, while Entra ID Governance helps ensure users have appropriate access to organisational resources.
+
+Author: ITLerato
+
+Learning Area: Microsoft SC-900
