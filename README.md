@@ -114,15 +114,15 @@ This repository contains my Microsoft SC-900 learning notes and practical cybers
 
 ### Microsoft Security Learning Notes
 
-1. [Zero Trust Security](zero-trust-security.md)
-2. [Entra ID, MFA and Conditional Access](entra-id-mfa-conditional-access.md)
-3. [Microsoft Defender and Sentinel](microsoft-defender-and-sentinel.md)
-4. [Microsoft Purview and Compliance](microsoft-purview-and-compliance.md)
-5. [Entra ID Protection and Governance](entra-id-protection-and-governance.md)
+1. Zero Trust Security
+2. Microsoft Entra ID, MFA, and Conditional Access
+3. Microsoft Defender and Sentinel
+4. Microsoft Purview and Compliance
+5. Microsoft Entra ID Protection and Governance
 
 ### Practical Cybersecurity Case Studies
 
-6. [Phishing Attack Investigation](phishing-attack-investigation.md)
+6. Phishing Attack Investigation
 
 ### Skills Demonstrated
 
