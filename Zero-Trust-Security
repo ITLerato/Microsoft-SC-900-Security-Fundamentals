@@ -1,0 +1,67 @@
+🔐 Zero Trust Security
+
+1. What is Zero Trust?
+
+Zero Trust is a cybersecurity security model based on the principle of "Never trust, always verify".
+
+This means that users, devices and applications must be verified before they are granted access to organisational resources.
+
+Even if a user is already inside the company network, access is not automatically trusted.
+
+2. Three Principles of Zero Trust
+
+1. Verify Explicitly
+
+Always authenticate and authorise users and devices using available information such as identity, location and device security status.
+
+Example: An employee must verify their identity using Multi-Factor Authentication (MFA) before accessing company applications.
+
+2. Use Least Privilege Access
+
+Give users only the permissions they need to perform their jobs.
+
+Example: An employee in the finance department should not automatically have administrator access to the company's IT systems.
+
+3. Assume Breach
+
+Operate as if an attacker may already have access to the network.
+
+Example: An organisation monitors network activity, detects suspicious behaviour and isolates compromised devices to reduce damage.
+
+3. Real-World Business Example
+
+A company allows employees to work remotely.
+
+Instead of automatically trusting employees because they have company login credentials, the organisation:
+
+Requires Multi-Factor Authentication.
+
+Checks device security.
+
+Applies Conditional Access policies.
+
+Monitors suspicious sign-in activity.
+
+Limits access according to job responsibilities.
+
+These controls help protect company information from unauthorised access.
+
+4. Microsoft Technologies Supporting Zero Trust
+
+Microsoft Entra ID – Identity and access management.
+
+Conditional Access – Controls access based on defined conditions.
+
+Microsoft Defender – Helps protect against security threats.
+
+Microsoft Sentinel – Security information and event management (SIEM) and security orchestration, automation and response (SOAR).
+
+5. Key Takeaway
+
+Zero Trust improves organisational security by continuously verifying access, limiting permissions and preparing for potential security breaches.
+
+Remember: Never trust, always verify.
+
+Author: ITLerato
+
+Learning Area: Microsoft SC-900
