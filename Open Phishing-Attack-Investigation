@@ -1,0 +1,89 @@
+🎣 Phishing Attack Investigation
+
+1. Project Overview
+
+This case study examines a simulated phishing attack against an organisation. It demonstrates how a cybersecurity analyst can identify suspicious emails, assess potential risks and recommend security controls.
+
+2. Scenario
+
+An employee receives an email claiming to be from the company's IT department.
+
+The email asks the employee to click a link and verify their Microsoft 365 account because their password is supposedly expiring.
+
+The link directs the employee to a fake login page designed to steal their username and password.
+
+The employee enters their credentials before reporting the email to the IT department.
+
+3. Identifying the Threat
+
+The following observations indicate a possible phishing attack:
+
+The email creates urgency by claiming the password is expiring.
+
+The sender's email address does not match the organisation's official domain.
+
+The message contains a suspicious link.
+
+The link directs the employee to an unofficial login page.
+
+The email requests sensitive login credentials.
+
+4. Potential Security Impact
+
+Security Principle
+
+Potential Impact
+
+Confidentiality
+
+An attacker could access confidential company information.
+
+Integrity
+
+An attacker could modify or manipulate company data.
+
+Availability
+
+An attacker could disrupt access to company systems.
+
+5. Recommended Security Controls
+
+Multi-Factor Authentication (MFA): Adds another verification step when users sign in.
+
+Microsoft Defender for Office 365: Helps detect and protect against malicious emails and phishing links.
+
+Security Awareness Training: Educates employees on recognising and reporting phishing attempts.
+
+Conditional Access: Helps enforce access requirements based on organisational policies and risk signals.
+
+Incident Response: Investigate the incident, secure the affected account and preserve relevant evidence.
+
+6. Incident Response Actions
+
+If this incident occurs, the security team should:
+
+Report and investigate the suspicious email.
+
+Secure the compromised account and reset the password.
+
+Revoke active sessions where appropriate.
+
+Review sign-in logs for suspicious activity.
+
+Check whether company information was accessed or copied.
+
+Block malicious URLs and remove similar emails where possible.
+
+Document the incident and recommend improvements.
+
+7. Lessons Learned
+
+This scenario demonstrates why organisations need strong identity protection, email security, employee awareness and incident response procedures.
+
+Employees should never enter credentials through suspicious links and should report unexpected requests for account verification.
+
+Author: ITLerato
+
+Project Type: Simulated Cybersecurity Case Study
+
+Learning Area: Phishing Detection and Incident Response
